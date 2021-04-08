@@ -1,0 +1,19 @@
+[[frozenset({218.0}), frozenset({148.0}), frozenset({77.0}), frozenset({64.0}), frozenset({55.0}), frozenset({27.0}), frozenset({11.0}), frozenset({7.0}), frozenset({6.0}), frozenset({4.0}), frozenset({3.0}), frozenset({2.0}), frozenset({1.0})], [frozenset({148.0, 6.0}), frozenset({11.0, 148.0}), frozenset({218.0, 6.0}), frozenset({218.0, 11.0}), frozenset({218.0, 148.0}), frozenset({64.0, 6.0}), frozenset({1.0, 6.0}), frozenset({1.0, 11.0}), frozenset({3.0, 6.0}), frozenset({3.0, 11.0}), frozenset({11.0, 7.0}), frozenset({27.0, 6.0}), frozenset({27.0, 7.0}), frozenset({11.0, 27.0}), frozenset({11.0, 6.0}), frozenset({4.0, 6.0}), frozenset({6.0, 7.0}), frozenset({1.0, 3.0})], [frozenset({218.0, 11.0, 148.0}), frozenset({218.0, 148.0, 6.0}), frozenset({218.0, 11.0, 6.0}), frozenset({11.0, 148.0, 6.0}), frozenset({3.0, 1.0, 11.0}), frozenset({1.0, 3.0, 6.0}), frozenset({1.0, 11.0, 6.0}), frozenset({11.0, 27.0, 6.0}), frozenset({11.0, 6.0, 7.0}), frozenset({11.0, 3.0, 6.0})], [frozenset({148.0, 6.0, 218.0, 11.0})], []]
+frozenset({148.0}) --> frozenset({6.0}) conf: 0.9260318640771146
+frozenset({148.0}) --> frozenset({11.0}) conf: 0.7974457252366923
+frozenset({218.0}) --> frozenset({6.0}) conf: 0.8767127926138287
+frozenset({148.0}) --> frozenset({218.0}) conf: 0.8412659820943338
+frozenset({64.0}) --> frozenset({6.0}) conf: 0.8225311839542496
+frozenset({27.0}) --> frozenset({6.0}) conf: 0.8237169711925029
+frozenset({11.0}) --> frozenset({6.0}) conf: 0.889986678203068
+frozenset({7.0}) --> frozenset({6.0}) conf: 0.8470850882644019
+frozenset({148.0}) --> frozenset({218.0, 11.0}) conf: 0.7164840822630931
+frozenset({148.0}) --> frozenset({218.0, 6.0}) conf: 0.8128772060295758
+frozenset({148.0}) --> frozenset({11.0, 6.0}) conf: 0.7898801521695603
+frozenset({218.0, 11.0}) --> frozenset({148.0, 6.0}) conf: 0.8087777345270534
+frozenset({11.0, 148.0}) --> frozenset({218.0, 6.0}) conf: 0.894313025699887
+frozenset({218.0, 148.0}) --> frozenset({11.0, 6.0}) conf: 0.847729629566666
+frozenset({148.0, 6.0}) --> frozenset({218.0, 11.0}) conf: 0.770131274131274
+frozenset({148.0}) --> frozenset({218.0, 11.0, 6.0}) conf: 0.713166099367867
+[(frozenset({148.0}), frozenset({6.0}), 0.9260318640771146), (frozenset({148.0}), frozenset({11.0}), 0.7974457252366923), (frozenset({218.0}), frozenset({6.0}), 0.8767127926138287), (frozenset({148.0}), frozenset({218.0}), 0.8412659820943338), (frozenset({64.0}), frozenset({6.0}), 0.8225311839542496), (frozenset({27.0}), frozenset({6.0}), 0.8237169711925029), (frozenset({11.0}), frozenset({6.0}), 0.889986678203068), (frozenset({7.0}), frozenset({6.0}), 0.8470850882644019), (frozenset({148.0}), frozenset({218.0, 11.0}), 0.7164840822630931), (frozenset({148.0}), frozenset({218.0, 6.0}), 0.8128772060295758), (frozenset({148.0}), frozenset({11.0, 6.0}), 0.7898801521695603), (frozenset({218.0, 11.0}), frozenset({148.0, 6.0}), 0.8087777345270534), (frozenset({11.0, 148.0}), frozenset({218.0, 6.0}), 0.894313025699887), (frozenset({218.0, 148.0}), frozenset({11.0, 6.0}), 0.847729629566666), (frozenset({148.0, 6.0}), frozenset({218.0, 11.0}), 0.770131274131274), (frozenset({148.0}), frozenset({218.0, 11.0, 6.0}), 0.713166099367867)]
+程序运行时间为： 7886.5291436 s
